@@ -14,8 +14,8 @@
 
 int main(void)
 {   /*Test*/
-	RCC_DeInit();
+	//RCC_DeInit();
 
-	SystemCoreClockUpdate();
-	for(;;);
+	//SystemCoreClockUpdate();
+	//for(;;);
 }
