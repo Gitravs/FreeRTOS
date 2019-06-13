@@ -13,7 +13,7 @@
 			
 
 int main(void)
-{
+{   /*Test*/
 	RCC_DeInit();
 
 	SystemCoreClockUpdate();

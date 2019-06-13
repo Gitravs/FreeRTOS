@@ -181,4 +181,5 @@
 			<resource resourceType="PROJECT" workspacePath="/STM32_hello_world"/>
 		</configuration>
 	</storageModule>
+	<storageModule moduleId="org.eclipse.cdt.internal.ui.text.commentOwnerProjectMappings"/>
 </cproject>
