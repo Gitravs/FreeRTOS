@@ -37,7 +37,16 @@ src/main.o: ../src/main.c \
  D:/Workspace/RTOS_workspace/STM32_hello_world/StdPeriph_Driver/inc/stm32f4xx_qspi.h \
  D:/Workspace/RTOS_workspace/STM32_hello_world/StdPeriph_Driver/inc/stm32f4xx_fmpi2c.h \
  D:/Workspace/RTOS_workspace/STM32_hello_world/StdPeriph_Driver/inc/stm32f4xx_spdifrx.h \
- D:/Workspace/RTOS_workspace/STM32_hello_world/StdPeriph_Driver/inc/stm32f4xx_cec.h
+ D:/Workspace/RTOS_workspace/STM32_hello_world/StdPeriph_Driver/inc/stm32f4xx_cec.h \
+ D:/Workspace/RTOS_workspace/STM32_hello_world/Third-Party/FreeRTOS/org/Source/include/FreeRTOS.h \
+ D:/Workspace/RTOS_workspace/STM32_hello_world/config/FreeRTOSConfig.h \
+ D:/Workspace/RTOS_workspace/STM32_hello_world/Third-Party/FreeRTOS/org/Source/include/projdefs.h \
+ D:/Workspace/RTOS_workspace/STM32_hello_world/Third-Party/FreeRTOS/org/Source/include/portable.h \
+ D:/Workspace/RTOS_workspace/STM32_hello_world/Third-Party/FreeRTOS/org/Source/include/deprecated_definitions.h \
+ D:/Workspace/RTOS_workspace/STM32_hello_world/Third-Party/FreeRTOS/org/Source/portable/GCC/ARM_CM4F/portmacro.h \
+ D:/Workspace/RTOS_workspace/STM32_hello_world/Third-Party/FreeRTOS/org/Source/include/mpu_wrappers.h \
+ D:/Workspace/RTOS_workspace/STM32_hello_world/Third-Party/FreeRTOS/org/Source/include/task.h \
+ D:/Workspace/RTOS_workspace/STM32_hello_world/Third-Party/FreeRTOS/org/Source/include/list.h
 
 D:/Workspace/RTOS_workspace/STM32_hello_world/CMSIS/device/stm32f4xx.h:
 
@@ -116,3 +125,21 @@ D:/Workspace/RTOS_workspace/STM32_hello_world/StdPeriph_Driver/inc/stm32f4xx_fmp
 D:/Workspace/RTOS_workspace/STM32_hello_world/StdPeriph_Driver/inc/stm32f4xx_spdifrx.h:
 
 D:/Workspace/RTOS_workspace/STM32_hello_world/StdPeriph_Driver/inc/stm32f4xx_cec.h:
+
+D:/Workspace/RTOS_workspace/STM32_hello_world/Third-Party/FreeRTOS/org/Source/include/FreeRTOS.h:
+
+D:/Workspace/RTOS_workspace/STM32_hello_world/config/FreeRTOSConfig.h:
+
+D:/Workspace/RTOS_workspace/STM32_hello_world/Third-Party/FreeRTOS/org/Source/include/projdefs.h:
+
+D:/Workspace/RTOS_workspace/STM32_hello_world/Third-Party/FreeRTOS/org/Source/include/portable.h:
+
+D:/Workspace/RTOS_workspace/STM32_hello_world/Third-Party/FreeRTOS/org/Source/include/deprecated_definitions.h:
+
+D:/Workspace/RTOS_workspace/STM32_hello_world/Third-Party/FreeRTOS/org/Source/portable/GCC/ARM_CM4F/portmacro.h:
+
+D:/Workspace/RTOS_workspace/STM32_hello_world/Third-Party/FreeRTOS/org/Source/include/mpu_wrappers.h:
+
+D:/Workspace/RTOS_workspace/STM32_hello_world/Third-Party/FreeRTOS/org/Source/include/task.h:
+
+D:/Workspace/RTOS_workspace/STM32_hello_world/Third-Party/FreeRTOS/org/Source/include/list.h:

@@ -434,3 +434,6 @@ uint8_t *puc;
 	}
 }
 
+void vApplicationMallocFailedHook(){
+
+}
